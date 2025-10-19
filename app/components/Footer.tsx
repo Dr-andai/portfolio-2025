@@ -5,10 +5,10 @@ import { Github, Linkedin, Twitter, Mail } from 'lucide-react';
 import Link from 'next/link';
 
 const socialLinks = [
-  { name: 'GitHub', icon: Github, url: 'https://github.com/username' },
-  { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com/in/username' },
-  { name: 'Twitter', icon: Twitter, url: 'https://twitter.com/username' },
-  { name: 'Email', icon: Mail, url: 'mailto:your.email@example.com' },
+  { name: 'GitHub', icon: Github, url: 'https://github.com/Dr-andai' },
+  { name: 'LinkedIn', icon: Linkedin, url: 'https://www.linkedin.com/in/david-andai-49a560116/' },
+  { name: 'Twitter', icon: Twitter, url: 'https://twitter.com/andai_d' },
+  { name: 'Email', icon: Mail, url: 'andaidavid8@gmail.com' },
 ];
 
 export default function Footer() {

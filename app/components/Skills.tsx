@@ -5,19 +5,19 @@ import { Code, Database, Cloud, Smartphone, Palette, GitBranch } from 'lucide-re
 
 const skills = [
   {
-    category: 'Frontend',
+    category: 'Data Science',
     icon: Code,
     color: 'from-blue-500 to-cyan-500',
     technologies: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion']
   },
   {
-    category: 'Backend',
+    category: 'Research',
     icon: Database,
     color: 'from-green-500 to-emerald-500',
     technologies: ['Node.js', 'Express', 'Python', 'PostgreSQL', 'MongoDB']
   },
   {
-    category: 'DevOps',
+    category: 'Natural Language Processing',
     icon: Cloud,
     color: 'from-purple-500 to-pink-500',
     technologies: ['AWS', 'Docker', 'Kubernetes', 'CI/CD', 'Vercel']

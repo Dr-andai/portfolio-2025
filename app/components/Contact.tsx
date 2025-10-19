@@ -8,19 +8,19 @@ const contactInfo = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'your.email@example.com',
+    value: 'andaidavid8@gmail.com',
     href: 'mailto:your.email@example.com'
   },
   {
     icon: Phone,
     label: 'Phone',
-    value: '+1 (555) 123-4567',
-    href: 'tel:+15551234567'
+    value: '+254 710 893913',
+    href: 'tel:+254710893913'
   },
   {
     icon: MapPin,
     label: 'Location',
-    value: 'San Francisco, CA',
+    value: 'Nairobi, KE',
     href: '#'
   }
 ];
@@ -82,7 +82,7 @@ export default function Contact() {
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-8">
               Whether you have a project in mind, want to collaborate, or just want to say hello,
-              I&aposd love to hear from you. Feel free to reach out!
+              I would love to hear from you. Feel free to reach out!
             </p>
             
             <div className="space-y-6">

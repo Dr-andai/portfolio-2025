@@ -25,9 +25,9 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6"
           >
-            Hi, I&aposm{' '}
+            Hi, I&apos;m{' '}
             <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              André Silva
+              Dr. David Andai
             </span>
           </motion.h1>
           
@@ -37,8 +37,8 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto"
           >
-            Full-stack developer passionate about building exceptional digital experiences
-            with modern technologies and clean, efficient code.
+            Medical Doctor and Data Enthusiast dedicated to Healthcare Research
+            Currently exploring Neuroscience and Deep Learning.
           </motion.p>
           
           <motion.div
