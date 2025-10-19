@@ -24,8 +24,8 @@ export default function About() {
             About Me
           </h2>
             <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            I&apos;m a passionate full-stack developer with expertise in creating scalable,
-            user-friendly applications using modern technologies.
+            I&apos;m a general practioner and data enthusiast,
+            passionate about health, research, neuroscience and data science.
           </p>
         </motion.div>
 
