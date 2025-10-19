@@ -17,7 +17,7 @@ const skills = [
     technologies: ['Node.js', 'Express', 'Python', 'PostgreSQL', 'MongoDB']
   },
   {
-    category: 'DevOps',
+    category: 'Natural Language Processing',
     icon: Cloud,
     color: 'from-purple-500 to-pink-500',
     technologies: ['AWS', 'Docker', 'Kubernetes', 'CI/CD', 'Vercel']
